@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Darshini YC
-- 👀 I’m interested in java,SQl,C-Programming,HTML,Python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in java,Python,SQl,C-Programming,HTML
 - 💞️ I’m looking to collaborate on Java Projects,Python Projects
 - 📫 How to reach me phn: 6300587954 mail:darshudarshini4246@gmail.com
 - 😄 Pronouns: She/her
